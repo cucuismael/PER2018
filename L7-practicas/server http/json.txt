@@ -1,0 +1,1 @@
+{"people": [{"apellidos": "Mend\u00edvil_G\u00f3mez", "IP": "212.128.255.155", "name": "Carlos", "Nombre_maquina": "Terminator"}, {"apellidos": "Lucas_Cobo", "IP": "212.128.255.156", "name": "Ismael", "Nombre_maquina": "Gatete"}]}
